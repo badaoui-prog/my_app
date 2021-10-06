@@ -13,5 +13,6 @@ public class exemple {
     private static void afficher(produit pro) {
         String s = "la marque de votre appareil";
         System.out.println(s + " " + pro.getName()+" et leur serie est "+ pro.getNum());
+        System.out.println(s + " " + pro.getName()+" et leur serie est "+ pro.getNum());
     }
 }
